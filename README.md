@@ -6,8 +6,14 @@
 - Adrian Ricardo Sipahutar (251401069)
 - Raduola Ginting (251401105)
 # Deskripsi Program
+- [Parkir Mall Prienal](https://github.com/Srghhhhhh/UAS_AP_5_No-Words-For-Coding-NWFC-/tree/main/Parkir%20Mall%20Prienal)🚗
+
+  Program Parkir Mall ini digunakan oleh petugas untuk mencatat mobil yang masuk, melihat daftar mobil yang sedang parkir, menghitung biaya parkir, dan menghapus data mobil setelah pembayaran selesai.
+Di awal program, petugas memasukkan nama dan ID. Setelah itu, program menampilkan menu utama berisi pilihan: tambah kendaraan, tampilkan kendaraan, pembayaran, dan keluar.
 - [Tebak Kata](https://github.com/Srghhhhhh/UAS_AP_5_/tree/main/TEBAK%20KATA)🎮
   
   Dalam game tebak kata ini, user harus menebak huruf satu per satu hingga menemukan kata yang benar. Program memiliki beberapa level kesulitan dengan jumlah nyawa yang berbeda pada setiap level. Jika user salah menebak huruf, maka nyawa akan berkurang. Di akhir permainan, user akan mendapatkan skor yang ditampilkan pada leaderboard.
 # Screenshot Hasil Program
+  Berikut link hasil dokumentasi setiap program:
+  [LINK](https://drive.google.com/drive/folders/1jUOc6CprO-4V83SV7bT8npfLz0TxXLKq)
 # Link Youtube
