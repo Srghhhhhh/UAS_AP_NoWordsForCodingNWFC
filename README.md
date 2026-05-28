@@ -1,4 +1,4 @@
-# KELOMPOK
+# KELOMPOK : No Words For Coding (NWFC)
 # Nama Anggota
 - Tengku Hafiz Novandi (251401039)
 - Maria Mekaliani (251401048)
