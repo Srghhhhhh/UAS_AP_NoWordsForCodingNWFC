@@ -22,7 +22,7 @@ Di awal program, petugas memasukkan nama dan ID. Setelah itu, program menampilka
   
   Permainan di mana pemain harus menemukan dan menandai semua bom yang tersembunyi di dalam papan. Pemain dapat membuka kotak atau menandai kotak yang dicurigai sebagai bom. Jika membuka kotak berisi bom, permainan langsung berakhir. Pemain dinyatakan menang hanya jika semua bom berhasil ditandai dengan tepat tanpa satupun salah menandai kotak yang aman.
   
-- [Sistem Manajemen Inventaris](https://github.com/Srghhhhhh/UAS_AP_5_No-Words-For-Coding-NWFC-/tree/7123a93785f88b1b8e94def2c35d8c32a3ce08de/Sistem%20Manajemen%20Inventaris%20Toko)💣
+- [Sistem Manajemen Inventaris](https://github.com/Srghhhhhh/UAS_AP_5_No-Words-For-Coding-NWFC-/tree/7123a93785f88b1b8e94def2c35d8c32a3ce08de/Sistem%20Manajemen%20Inventaris%20Toko)🏠
   
   Program Manajemen Inventaris Toko adalah aplikasi berbasis Command Line Interface (CLI) yang ditulis dalam bahasa C++ untuk membantu toko retail mengelola data barang secara efisien. Fitur yang tersedia meliputi tambah barang, tampilan tabel seluruh barang, pencarian barang termahal, kalkulasi total nilai inventaris, pengecekan stok kritis (< 5 unit), serta update stok menggunakan pointer. Setiap input pengguna divalidasi sehingga harga dan stok tidak dapat bernilai negatif, dan program akan terus berjalan dalam loop menu utama hingga pengguna memilih opsi Keluar.
   
