@@ -1,4 +1,5 @@
 # KELOMPOK : No Words For Coding (NWFC)
+Berikut deskripsi program, screenshot program, dan link youtube penjelasan program dalam mata kuliah lab Algoritma dan Pemrograman
 # Nama Anggota
 - Tengku Hafiz Novandi (251401039)
 - Maria Mekaliani (251401048)
@@ -30,3 +31,7 @@ Di awal program, petugas memasukkan nama dan ID. Setelah itu, program menampilka
   Berikut link hasil dokumentasi setiap program:
   [LINK](https://drive.google.com/drive/folders/1jUOc6CprO-4V83SV7bT8npfLz0TxXLKq)
 # Link Youtube
+
+Berikut link video youtube dokumentasi, penjelasan proyek dan demonstrasi projek:
+- [PART 1](https://www.youtube.com/watch?v=QZn5axi0GYM&t=636s)
+- [PART 2](https://www.youtube.com/watch?v=ZXwg5CR_NgE&t=27s)
