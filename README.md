@@ -1,19 +1,19 @@
 # KELOMPOK : No Words For Coding (NWFC)
-Berikut deskripsi program, screenshot program, dan link youtube penjelasan program dalam mata kuliah lab Algoritma dan Pemrograman
-# Nama Anggota
+Berikut deskripsi program, screenshot program, dan link youtube penjelasan program dalam mata kuliah lab Algoritma dan Pemrograman.
+## Nama Anggota
 - Tengku Hafiz Novandi (251401039)
 - Maria Mekaliani (251401048)
 - Yehezkiel Saragih (251401060)
 - Adrian Ricardo Sipahutar (251401069)
 - Raduola Ginting (251401105)
-# Deskripsi Program
+## Deskripsi Program
 - [Parkir Mall Prienal](https://github.com/Srghhhhhh/UAS_AP_5_No-Words-For-Coding-NWFC-/tree/main/Parkir%20Mall%20Prienal)🚗
 
   Program Parkir Mall ini digunakan oleh petugas untuk mencatat mobil yang masuk, melihat daftar mobil yang sedang parkir, menghitung biaya parkir, dan menghapus data mobil setelah pembayaran selesai.
 Di awal program, petugas memasukkan nama dan ID. Setelah itu, program menampilkan menu utama berisi pilihan: tambah kendaraan, tampilkan kendaraan, pembayaran, dan keluar.
 - [Tebak Kata](https://github.com/Srghhhhhh/UAS_AP_5_/tree/main/TEBAK%20KATA)🎮
   
-  Dalam game tebak kata ini, user harus menebak huruf satu per satu hingga menemukan kata yang benar. Program memiliki beberapa level kesulitan dengan jumlah nyawa yang berbeda pada setiap level. Jika user salah menebak huruf, maka nyawa akan berkurang. Di akhir permainan, user akan mendapatkan skor yang ditampilkan pada leaderboard.
+  Dalam game tebak kata ini, user harus menebak huruf satu per satu hingga menemukan kata yang benar. Program memiliki beberapa level kesulitan dengan jumlah nyawa yang berbeda pada setiap level. Jika user salah menebak huruf, maka nyawa akan berkurang. Di akhir permainan, user akan mendapatkan skor yang ditampilkan pada leaderboard, jika menjawab kata dengan benar.
   
 - [Game Tebak Negara](https://github.com/Srghhhhhh/UAS_AP_5_No-Words-For-Coding-NWFC-/tree/main/Game%20Tebak%20Negara)🚩
   
@@ -27,11 +27,11 @@ Di awal program, petugas memasukkan nama dan ID. Setelah itu, program menampilka
   
   Program Manajemen Inventaris Toko adalah aplikasi berbasis Command Line Interface (CLI) yang ditulis dalam bahasa C++ untuk membantu toko retail mengelola data barang secara efisien. Fitur yang tersedia meliputi tambah barang, tampilan tabel seluruh barang, pencarian barang termahal, kalkulasi total nilai inventaris, pengecekan stok kritis (< 5 unit), serta update stok menggunakan pointer. Setiap input pengguna divalidasi sehingga harga dan stok tidak dapat bernilai negatif, dan program akan terus berjalan dalam loop menu utama hingga pengguna memilih opsi Keluar.
   
-# Screenshot Hasil Program
+## Screenshot Hasil Program
   Berikut link hasil dokumentasi setiap program:
   [LINK](https://drive.google.com/drive/folders/1jUOc6CprO-4V83SV7bT8npfLz0TxXLKq)
-# Link Youtube
+## Link Youtube
 
-Berikut link video youtube dokumentasi, penjelasan proyek dan demonstrasi projek:
+Berikut link video youtube dokumentasi, penjelasan proyek, dan demonstrasi projek:
 - [PART 1](https://www.youtube.com/watch?v=QZn5axi0GYM&t=636s)
 - [PART 2](https://www.youtube.com/watch?v=ZXwg5CR_NgE&t=27s)
